@@ -1,4 +1,4 @@
-# Welcome to : FORM TEMPS 
+# Welcome to FORM TEMPS 
 
 * Form temps are/might include Pure HTML5, CSS3, Javascript &/or PHP Technology.
 > These templates are designed for the sole purpose of helping
